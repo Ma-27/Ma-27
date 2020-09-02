@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about why i use it?
+💬 Ask me about ...?
 
 这玩意挺火的，我也来玩一玩
 
