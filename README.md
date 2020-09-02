@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💬 Ask me about why i use it?
+这玩意挺火的，我也来玩一玩
+
 <!--
 **Ma-27/Ma-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
