@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-💬 Ask me about ...?
+💬 Feel free to Ask me about anything...
+📫 How to reach me: here is my profile
+⚡ Fun fact: I do not know either..
 
 这玩意挺火的，我也来玩一玩
-
-准备期末，暂时停更
+#基本上考完了，来整活了
 
 <!--
 **Ma-27/Ma-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
