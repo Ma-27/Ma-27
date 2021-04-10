@@ -2,15 +2,16 @@
 
 ### Hi there 👋
 
-💬 Feel free to Ask me about anything...
+💬 Feel free to Ask me about anything you like 
 
-📫 How to reach me: here is my profile...
+⚡ Fun fact: I do not know either...
 
-⚡ Fun fact: I do not know either..
 
 这玩意挺火的，我也来玩一玩
 
-最近搞地图APP
+佛系 Android 玩家 看着办型人物 
+
+Leave me alone,I know what I am doing. -RAI
 
 <!--
 **Ma-27/Ma-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
