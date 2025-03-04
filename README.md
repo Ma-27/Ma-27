@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ma-27&show_icons=true&theme=vue&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ma-27&show_icons=false&theme=vue&hide_title=true" />
 
 ### Hi there 👋
 
@@ -8,10 +8,6 @@
 
 
 这玩意挺火的，我也来玩一玩
-
-佛系 Android 玩家 看着办型人物 
-
-Leave me alone,I know what I am doing. -RAI
 
 <!--
 **Ma-27/Ma-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
